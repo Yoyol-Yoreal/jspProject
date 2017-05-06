@@ -11,6 +11,6 @@
     <title>登录页面</title>
 </head>
 <body>
-you are correct!
+you log in succeed!
 </body>
 </html>
