@@ -41,7 +41,7 @@
                 记住密码
             </label>
         </div>
-        <button class="btn btn-lg btn-primary btn-block btn-info" type="submit">登  录</button>
+        <button class="btn btn-lg btn-block btn-info" type="submit">登  录</button>
     </form>
 </div>
 
