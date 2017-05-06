@@ -17,6 +17,7 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="css/flat-ui.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -40,7 +41,7 @@
                 记住密码
             </label>
         </div>
-        <button class="btn btn-lg btn-primary btn-block" type="submit">登  录</button>
+        <button class="btn btn-lg btn-primary btn-block btn-info" type="submit">登  录</button>
     </form>
 </div>
 
