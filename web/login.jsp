@@ -28,12 +28,12 @@
 </head>
 <body>
 <div class="container">
-    <form class="form-signin">
+    <form action="login.action" class="form-signin">
         <h2 class="form-signin-heading">请输入用户名和密码</h2>
         <label for="inputUsername" class="sr-only"></label>
-        <input type="text" id="inputUsername" class="form-control" placeholder="Username" required autofocus>
+        <input type="text" name="username" id="inputUsername" class="form-control" placeholder="Username" required autofocus>
         <label for="inputPassword" class="sr-only">Password</label>
-        <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+        <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
         <div class="checkbox">
             <label>
                 <input type="checkbox" value="记住密码">
