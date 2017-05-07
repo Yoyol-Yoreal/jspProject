@@ -4,14 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/org/struts/useraction/LoginAction.java" line="45" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b9186a-56b4-45b1-8a66-84673947c122" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dao/Dao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/labRecord.iml" afterPath="$PROJECT_DIR$/labRecord.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/struts.xml" afterPath="$PROJECT_DIR$/src/struts.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/struts/useraction/UserAction.java" afterPath="$PROJECT_DIR$/src/org/struts/useraction/LoginAction.java" />
-    </list>
+    <list default="true" id="60b9186a-56b4-45b1-8a66-84673947c122" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,8 +39,8 @@
       <file leaf-file-name="Dao.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dao/Dao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            <state relative-caret-position="88">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -837,12 +830,12 @@
       <updated>1494076882458</updated>
       <workItem from="1494076883788" duration="4296000" />
       <workItem from="1494142761964" duration="334000" />
-      <workItem from="1494143147746" duration="4847000" />
+      <workItem from="1494143147746" duration="5004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9477000" />
+    <option name="totallyTimeSpent" value="9634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1021,8 +1014,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dao/Dao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
