@@ -5,8 +5,8 @@
         "http://struts.apache.org/dtds/struts-2.3.dtd">
 
 <struts>
-    <package name="useraction" extends="struts-default">
-        <action name="login" class="org.struts.useraction.UserAction" method="execute">
+    <package name="loginaction" extends="struts-default">
+        <action name="login" class="org.struts.useraction.LoginAction" method="login">
             <result name="success">/success.jsp</result>
             <result name="error">/error.jsp</result>
         </action>
