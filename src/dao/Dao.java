@@ -13,7 +13,7 @@ public class Dao {
 
     public Dao() {
         String driver = "com.mysql.jdbc.Driver";
-        String url = "jdbc:mysql://localhost:3307/labRecord";
+        String url = "jdbc:mysql://localhost:3306/test";
         String user = "root";
         String password = "lulu76182";
         try {
