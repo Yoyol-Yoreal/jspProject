@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="labRecord:war exploded">
-    <output-path>$USER_HOME$/Downloads/apache-tomcat-7.0.77/webapps/jspProject</output-path>
+    <output-path>D:/tomcat9/webapps/jspProject</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="labRecord/web/Web" />
       <element id="directory" name="WEB-INF">
